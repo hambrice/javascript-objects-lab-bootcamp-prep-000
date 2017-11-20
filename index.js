@@ -6,3 +6,6 @@ function destructivelyUpdateObjectWithKeyAndValue(recipe, key, value) {
   recipe[key] = value
   return recipe
 }
+function deleteFromObjectByKey (recipe, key, value) {
+  
+}
